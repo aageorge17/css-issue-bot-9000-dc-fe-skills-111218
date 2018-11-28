@@ -23,6 +23,6 @@ h2 {
 
 #tasks .completed {
   background-color:#ccc;
-  display: block;
   text-decoration: underline;
+  display: block;
 }
