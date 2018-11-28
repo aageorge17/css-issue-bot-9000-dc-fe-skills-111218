@@ -17,6 +17,7 @@ h2 {
 
 .completed {
   font-family: "Helevtica Nueu";
+  display: block;
 }
 
 #tasks .completed {
