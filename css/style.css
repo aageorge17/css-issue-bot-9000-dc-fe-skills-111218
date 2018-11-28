@@ -21,7 +21,7 @@ h2 {
   display: block;
 }
 
-#tasks .completed {
+.completed #tasks {
   background-color:#ccc;
   text-decoration: underline;
   display: block;
